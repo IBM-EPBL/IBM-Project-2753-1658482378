@@ -1,18 +1,18 @@
-![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)]((https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/10/phishing_AIM.jpg))
+![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/10/phishing_AIM.jpg)
 # Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
 IBM-Project-16931-1659625158
 
 
-**Batch Name :** B4-4M6E
+**Batch Name :** B7-1A3E	
 
-**Team ID :** PNT2022TMID03926
+**Team ID :** PNT2022TMID13259
 
-### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="30" height="30"></picture>
+### Team Members :  <picture><img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="🤗" width="30" height="30"></picture>
    
-  - Lokesh P 
-  - Prithiv Raj S
-  - Thirugnanam M
-  - Brihadeeswaran N
+  - Dharun S
+  - Abinash B
+  - Vasanthkumar D
+  - Kishore G
   
  ## Project Objectives : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
@@ -41,5 +41,4 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
  
  ## Technical Architecture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Brick.png" alt="Brick" width="25" height="25" />
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
-
 
